@@ -1,8 +1,10 @@
 import React from "react";
+import GroceryList from "./components/GroceryList.jsx";
 
 
 class App extends React.Component {
-    constructor () {
+    constructor (props) {
+        super(props);
         this.state = {
             grocery_list: []
         }
@@ -18,7 +20,7 @@ class App extends React.Component {
         } else {
             return (
                 <div>
-                    
+
                 </div>
             )
         }
