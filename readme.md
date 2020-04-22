@@ -16,9 +16,9 @@ This app was built to give you the opportunity to fork and clone your own versio
 - Webpack has been set up for you to bundle your code with the proper routes and file paths. You should not need to make any changes.
 - Your package.json file contains everything for the minimums of this project, but you are free to add what you see fit. There are scripts to bundle your app and run your server included.
 
-## How your app MAY look when finished passing data, without CSS: 
+## How your app should look, or close to, when finished passing data, without CSS: 
 
-<img src="https://collinpersonal.s3.us-east-2.amazonaws.com/Screen+Shot+2020-04-22+at+1.29.06+PM.png" height="50%" width="50%"></img>
+<img src="https://collinpersonal.s3.us-east-2.amazonaws.com/Screen+Shot+2020-04-22+at+1.29.06+PM.png" height="75%" width="75%"></img>
 
 ## How your app could look when finished passing data, with CSS: 
 
